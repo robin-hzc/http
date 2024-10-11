@@ -12,7 +12,7 @@ import (
 	"context"
 	"encoding/json"
 	"encoding/xml"
-	"github.com/dobyte/http/internal"
+	"github.com/robin-hzc/http/internal"
 	"net/http"
 	"regexp"
 	"strings"

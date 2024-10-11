@@ -8,9 +8,9 @@
 package http
 
 import (
-	"github.com/dobyte/http/internal/rand"
-	"github.com/dobyte/http/internal/stream"
-	"github.com/dobyte/http/internal/xfile"
+	"github.com/robin-hzc/http/internal/rand"
+	"github.com/robin-hzc/http/internal/stream"
+	"github.com/robin-hzc/http/internal/xfile"
 	"os"
 	"strings"
 )

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
-	"github.com/dobyte/http/internal"
+	"github.com/robin-hzc/http/internal"
 	"io"
 	"mime/multipart"
 	"net/textproto"
